@@ -2,3 +2,4 @@
 *.key
 ae-*
 notes-for-video.md
+.DS_Store
